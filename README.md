@@ -14,7 +14,13 @@ The entire program was built using base Python 3.8. The project is only guarante
 
 ## How To Use
 
-This project is built to be run from the console as it requires the use of flags. Listed below are the accepted flags:
+This project is built to be run from the console, and can be done so by using the following command:
+
+```
+python Genetic_Programming.py [flags]
+```
+
+The program requires the use of flags to operate correctly. Listed below are the accepted flags:
 
 - `-expr` : A mathematical expression.
 - `-x` : An input vector of data points.
