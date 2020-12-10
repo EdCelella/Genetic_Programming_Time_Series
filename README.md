@@ -41,7 +41,7 @@ Due to the way the coursework was structured. The project can perform one of thr
 
 The simplest way to run the test suite is through the use of Docker. Simply build, and run, the provided Dockerfile.
 
-If problems are encountered, a random assortment of tests has also been provided as shell scripts. These can be found in the [Tests](Tests/) directory Each files name corresponds to the operation it is testing.
+If problems are encountered, a random assortment of tests has also been provided as shell scripts. These can be found in the [Tests](Tests/) directory. Each files name corresponds to the operation it is testing.
 
 ## License
 
